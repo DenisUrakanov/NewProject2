@@ -43,4 +43,8 @@ public class Person {
     public void doSmthAgain(){
         System.out.println("We dont want to work, let`s play");
     }
+
+    public void TryToFly(){
+
+    }
 }
