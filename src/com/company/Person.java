@@ -35,4 +35,8 @@ public class Person {
                 ", moneyCash=" + moneyCash +
                 '}';
     }
+
+    public String doSmth(){
+        System.out.println("Making money");
+    }
 }
