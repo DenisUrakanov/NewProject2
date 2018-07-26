@@ -41,6 +41,6 @@ public class Person {
     }
 
     public void doSmthAgain(){
-        System.out.println("Work");
+        System.out.println("Play");
     }
 }
