@@ -37,6 +37,6 @@ public class Person {
     }
 
     public void doSmth(){
-        System.out.println("Making money");
+        System.out.println("Charity");
     }
 }
