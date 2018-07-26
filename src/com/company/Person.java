@@ -39,4 +39,8 @@ public class Person {
     public void doSmth(){
         System.out.println("Charity");
     }
+
+    public void doSmthAgain(){
+        System.out.println("Work");
+    }
 }
