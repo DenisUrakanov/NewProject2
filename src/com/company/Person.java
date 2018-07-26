@@ -47,5 +47,6 @@ public class Person {
     public void TryToFly(){
         System.out.println("My dream"); //first commit fot interactive rebase
         System.out.println("is"); //second commit for interactive rebase
+        System.out.println("to fly"); // third commit for interactive rebase
     }
 }
