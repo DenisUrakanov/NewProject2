@@ -48,5 +48,6 @@ public class Person {
         System.out.println("My dream"); //first commit fot interactive rebase (attempt 3)
         System.out.println("is"); //second commit fot interactive rebase (attempt 3)
         System.out.println("to fly"); //third commit fot interactive rebase (attempt 3)
+        System.out.println("!!!!"); //4 commit fot interactive rebase (attempt 3)
     }
 }
