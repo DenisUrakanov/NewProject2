@@ -36,7 +36,7 @@ public class Person {
                 '}';
     }
 
-    public String doSmth(){
+    public void doSmth(){
         System.out.println("Making money");
     }
 }
